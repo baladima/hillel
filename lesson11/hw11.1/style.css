@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+}
+
+.row { 
+    display: flex; 
+    gap: 12px;
+    flex-direction: row;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
