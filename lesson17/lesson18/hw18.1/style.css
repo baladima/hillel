@@ -1,0 +1,35 @@
+.container {
+    padding: 20px;
+}
+
+.btn {
+    text-wrap: nowrap;
+}
+
+.timer-component {
+    margin-bottom: 16px;
+
+    border: 1px solid lightgrey;
+    border-radius: 12px;
+
+    overflow: hidden;
+}
+
+.form {
+    display: flex;
+    gap: 12px;
+    padding: 16px;
+}
+
+.timer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px 12px 16px;
+    border-top: 1px solid lightgrey;
+}
+
+.timer-row div {
+    font-size: 20px;
+}
