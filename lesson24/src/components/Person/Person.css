@@ -1,0 +1,16 @@
+pre {
+    margin: 0;
+}
+
+.personWrapper {
+    padding: 16px;
+
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+}
+
+.tags {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 16px;
+}
